@@ -1,6 +1,6 @@
 # Winuall
 
-# Main points for creating a REST API in Django.
+# Main points for creating a REST API in Django REST framework.
 
  find out steps to creating a REST API.
 
