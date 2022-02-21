@@ -23,7 +23,7 @@ sudo apt install python3-venv
 
 mkdir Winuall
 
-cd ToDoWinuallAPI
+cd Winuall
 
 python3.6 -m venv wenv
 
