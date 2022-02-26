@@ -1,4 +1,4 @@
-# Winuall
+# API based Website
 
 # Main points for creating a REST API in Django REST framework.
 
@@ -21,9 +21,9 @@ sudo apt install python3-pip
 
 sudo apt install python3-venv
 
-mkdir Winuall
+mkdir APIWebsite
 
-cd Winuall
+cd APIWebsite
 
 python3.6 -m venv wenv
 
